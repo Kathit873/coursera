@@ -1,0 +1,5 @@
+{
+"countries":[{"name":"Australia","cities":[{"name":"Sydney","imageUrl":"https://placehold.co/600x400?text=Sydney","description":"Sydney."},{"name":"Melbourne","imageUrl":"https://placehold.co/600x400?text=Melbourne","description":"Melbourne."}]}],
+"temples":[{"name":"Taj Mahal","imageUrl":"https://placehold.co/600x400?text=Taj+Mahal","description":"Mughal monument."},{"name":"Angkor Wat","imageUrl":"https://placehold.co/600x400?text=Angkor+Wat","description":"Cambodia."}],
+"beaches":[{"name":"Bora Bora","imageUrl":"https://placehold.co/600x400?text=Bora+Bora","description":"French Polynesia."},{"name":"Copacabana","imageUrl":"https://placehold.co/600x400?text=Copacabana","description":"Brazil."}]
+}
